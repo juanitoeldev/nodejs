@@ -1,0 +1,8 @@
+CommonJS es el sistema de módulos predeterminado. Sin embargo, recientemente se agregó un nuevo sistema de módulos para NodeJS - ES modules. Los módulos CommonJS 
+utilizan la declaración require() para las importaciones de módulos y module.exports para las exportaciones de módulos mientras es de importación y exportación 
+para ES.
+
+> .js usa modulos CommonJS primer sistema de módulos hecho por Node.js (2009). Hasta la fecha sigue habiendo mucho codigo hecho en CommonJ.
+> ECMAScript es la solución estándar, y debe sustituir a los modulos hechos en CommonJS.
+
+https://nodejs.org/api/modules.html#modules-commonjs-modules

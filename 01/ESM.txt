@@ -1,0 +1,10 @@
+ESM (ECMAScript Modules) es un sistema de módulos estandarizado en JavaScript que permite la estructuración organizada, mantenible y reutilizable del código. Utiliza 
+declaraciones de importación y exportación para incluir y compartir funciones, objetos o primitivas entre archivos. ESM admite el análisis estático, lo que permite 
+una mejor optimización y herramientas, y siempre está en modo estricto para reducir los problemas comunes de JavaScript. Node.js es totalmente compatible con ESM, 
+que se puede usar con extensiones de archivo .mjs o configurarse en el paquete.json para archivos .js, lo que facilita la escritura de aplicaciones JavaScript 
+modulares y eficientes.
+
+> .mjs usa modulos ECMAScript sistema de ficheros oficial javascript creado en 2015.
+> compatible con Node.js desde su versión 12 (2019).
+
+https://nodejs.org/api/esm.html
